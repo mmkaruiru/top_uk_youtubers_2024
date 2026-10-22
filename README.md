@@ -1,5 +1,6 @@
 My Data Portfolio: Excel to Power BI
-<img width="800" height="950" alt="image" src="https://github.com/user-attachments/assets/6d150a10-8f81-4b9c-b718-f4d643c73fe9" />
+<img width="1542" height="967" alt="kaggle_to_powerbi" src="https://github.com/user-attachments/assets/a4e298d6-c503-4793-a4d4-b75565d026b2" />
+
 
 # Dashboard
 # Analysis of Top 10 Youtubers in UK-2024
